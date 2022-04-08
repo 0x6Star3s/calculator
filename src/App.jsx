@@ -105,7 +105,7 @@ function App() {
         <Kalkulator 
           currentNumber={currentNumber} 
           previousNumber={previousNumber}  
-          funkcja={displayNumbers} 
+          displayNumbers={displayNumbers} 
           operate={operate} 
           math={math} 
           showResult={showResult} 
